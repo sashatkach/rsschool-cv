@@ -22,7 +22,7 @@ Although i don't have commersial experience in programming I think I have abilit
  - stress resistance
  - attention 
  - responsible 
- - command player, 
+ - command player 
  - fast learner
 
 ### Education:
