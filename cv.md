@@ -20,7 +20,7 @@ Although i don't have commersial experience in programming I think I have abilit
 	
 ### Personal quality:  
  - stress resistance
- - attention, 
+ - attention 
  - responsible 
  - command player, 
  - fast learner
